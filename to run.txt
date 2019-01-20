@@ -1,0 +1,6 @@
+mvn spring-boot:run
+Project is from:
+https://examples.javacodegeeks.com/enterprise-java/spring/boot/spring-boot-soap-service-hibernate-example/
+
+WDSL is at:
+http://localhost:8080/soap/ws/employee.wsdl
